@@ -1,4 +1,4 @@
-<h1>Hun seop's Git hub!
+<h2>Hello Hun seop's Git hub!
 	<br>
 	
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
