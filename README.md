@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hunseop&nbsp;Github!&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
 <div align="center">
 	<h3> 📚 Tech Stack 📚 </h3>
@@ -16,7 +16,7 @@
 	
 </div>
 <hr>
-<a href="https://github.com/ghdwhd0302" align="center">
+<a href="https://github.com/hunseop2772" align="center">
 	<img align="center" style="height:180px;width:49%" src="https://github-readme-stats.vercel.app/api?username=ghdwhd0302&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
 	<img align="center" style="height:180px;width:49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdwhd0302&layout=compact&theme=nord&hide_border=true" />
 </a>
