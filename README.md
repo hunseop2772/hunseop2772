@@ -3,8 +3,6 @@
 	
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
-<br>
-
 ![image](https://user-images.githubusercontent.com/92245622/218493531-235724a2-3ab7-440d-9c99-317088e7fa46.png)
 	
 <hr>
