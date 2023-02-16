@@ -1,5 +1,9 @@
+<h1>Hun seop's Git hub!
+	<br>
+	
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
+<br>
 <div align="center">
 	<h3> 📚 Tech Stack 📚 </h3>
 	 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
