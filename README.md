@@ -36,6 +36,14 @@
   <br>
    
 </div>
+
+<br>
+	
+<div align='center'>기술 블로그
+  <a href='https://hunseop2772.tistory.com/'>
+    <img src="https://img.shields.io/badge/-TISTORY-orange"/>
+  </a>
+</div>
 	
 <hr>
 	
