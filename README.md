@@ -3,46 +3,123 @@
 	
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🌎🚀🌕&fontAlign=70)
 
-송훈섭
+
 
 (직무)Backend Developer
 
-**소개**  **/ About Me**
+<br>
 
-- IDC 센터 보이스키술팀 음성/메세지 부가 서비스 개발자
-- B2B 플랫폼, 웹, 서버 개발 및 레거시 프로그램 유지보수
-- ISMS 보안 취약점 대비 웹사이트 확인 및 작업 진행
+**소개 / About Me**
+
+- (비공개) IDC 센터 보이스키술팀 음성/메세지 부가 서비스 개발자 
+- B2B 플랫폼, 웹, 서버 개발 및 레거시 프로그램 유지보수 
+- ISMS 보안 취약점 대비 웹사이트 확인 및 작업 진행 
 - 정합성, 부하테스트 등 실시간 고객 오류 수정
 
 <br>
 
-**기술스택**  **/ Skill Set**
+**기술스택 / Skill Set**
+
+|구분|Skill|
+| :-: | :-: |
+|언어|Java, JavaScript, Python|
+|프레임워크/기술|Spring Framework, Spring Boot, Spring, RESTFul API, Node Js, Express Js, Vue Js, JSP, OpenCV, Django|
+|데이터베이스|, MySQL, Oracle, PostgreSQL, Redis|
+|개발도구|Eclips, IntelliJ IDEA, Visual Studio Code, PyCharm|
+|형상 관리|Git, GitHub|
+|운영체제 |Linux, Windows|
+|Etc|JMeter, SecureCRT, PuTTY, Postman, Selenium, Slack|
 
 <br>
 
-| 구분 | Skill |
-| --- | --- |
-| 언어 | Java, JavaScript, Python |
-| 프레임워크/기술 | Spring Framework, Spring Boot, Spring, RESTFul API, Node Js, Express Js, Vue Js, JSP, OpenCV, Django |
-| 데이터베이스 | , MySQL, Oracle, PostgreSQL, Redis |
-| 개발도구 | Eclips, IntelliJ IDEA, Visual Studio Code, PyCharm |
-| 형상 관리 | Git, GitHub |
-| 운영체제 | Linux, Windows |
-| Etc | JMeter, SecureCRT, PuTTY, Postman, Selenium, Slack |
-<br>
+**경력 / 경험 사항** 
 
-**경력**  **/**  **경험 사항**
+|재직 기간|회사명|부서 및 R&R|직책|
+| :-: | :-: | :-: | :-: |
+|23\.04.24 ~|(비공개)|보이스기술팀 개발부서|JM|
+|20\.03.02 ~22.06.30|육군|본부중대장 겸 통신소대장|중위|
+|19\.12 ~20.02|한국연구재단|원자력 팀|국비인턴|
 
 <br>
 
-| 재직 기간 | 회사명 | 부서 및 R&R | 직책 |
-| --- | --- | --- | --- |
-| 23.04.24 ~ | (비공개) | 보이스기술팀 개발부서 | JM |
-| 20.03.02 ~22.06.30 | 육군 | 본부중대장 겸 통신소대장 | 중위 |
-| 19.12 ~20.02 | 한국연구재단 | 원자력 팀 | 국비인턴 |
+**주요 프로젝트/ Projects**   *\* 프로젝트 경험을 최신순으로 작성하였습니다*
 
 <br>
-	
+
+**1. 2023.09 ~ 2023.12 / (비즈와이드샷 사용자 웹 통합개발 - 마이그레이션)**
+
+<br>
+
+|<p>사용언어</p><p>및 개발환경</p>|Spring Framework, Node Express Js, Git|
+| :-: | :- |
+|<p>인력구성</p><p>및 기여도</p>|<p>개발자 1명, 기획 2명, 디자인 1명</p><p>기여도 : 개발 100% </p>|
+|<p>주요업무 및</p><p>배경</p>|<p>- 기존 JSP로 만든 (구)웹 사이트가 사업자수용서버와 웹서버가 따로 존재하여 보안과 접근성 문제점</p><p>- 기존 9개의 서버에 사용자에 따라 각각 웹이 따로 있어 수정 및 관리의 문제점 </p>|
+|성과/결과|<p>- Spring, Node js 를 사용하여 1개의 웹 개발로 수정 및 관리의 편리성으로 인력 낭비 해결</p><p>- ISMS 점검 간 보안위협 해결 </p><p>- 기존 JSP 로 개발된 레거시 웹사이트 최신 디자인으로 변경</p><p>- APIKEY 값 REIDS를 활용한 빠른 사용자 접근과 인증 개선</p>|
+
+<br>
+
+**2. 2023.07 ~ 2023.09 / (24년 선거 대비 자체 이미지 서버 개발)**
+
+<br>
+
+|<p>사용언어</p><p>및 개발환경</p>|Spring Boot, Git|
+| :-: | :- |
+|<p>인력구성</p><p>및 기여도</p>|<p>개발자 2명(API개발 1명, GW개발 1명), 기획 2명</p><p>기여도 : API 개발 100%</p>|
+|<p>주요업무 및</p><p>배경</p>|- 24년 선거기간 대비 Kakao, RCS, MMS 메시지 대량 발송 간 서버 다운 및 전송속도 저하 문제점|
+|성과/결과|<p>- 서버 용량 확보를 위한 자동삭제 및 부하분산 작업을 통한 고가용성 보장</p><p>- 이미지 발송 만 따로 처리할 수 있는 서버 개발로 서버 부하 최소화 및 다운 대비 보장</p><p>- 전송속도 이전 대비 36% 상승</p>|
+
+<br>
+
+**3. 2023.04 ~ / (기타 유지보수 및 장애처리)**
+
+<br>
+
+|<p>사용언어</p><p>및 개발환경</p>|Spring Boot, Spring Framework, JSP, Node Express Js, Python |
+| :-: | :- |
+|<p>주요업무 및</p><p>상세역할</p>|<p>- B2B 사업으로 운영팀 접수 받은 실시간 장애 및 오류 해결</p><p>- 서버, 관리자 / 사용자 웹 유지보수 및 사업팀 요청 개발건 수행</p><p>- 카카오 신규 기능 (EX) 알림톡, 친구톡 등) 생길 경우 회사 자체 Center/Sender API 개발 및 규격서 작성</p><p>- 카테고리별 발신번호 스팸처리 관리 개발</p><p>- RCS ROUTING 설정 개발</p><p>- 유동, 수동 IP선택 조건 기획 및 개발</p><p>- DB 대개체 작업 지원 및 정합성, 부하 테스트 등 </p>|
+|성과/결과|실시간 장애 처리 및 유지보수로 연말 평가 간 팀 장애처리 부분 성과 A 달성 기여|
+
+<br>
+
+**기타 사항**
+
+<br>
+
+**학력** 
+
+- 2020.09 ~ 2023.02  아주대정보통신대학원 지능형소프트웨어학과  졸업
+- 2016.03 ~ 2020.02  한밭대학교 정보통신공학과 졸업 
+
+|**졸업작품**||
+| :-: | :- |
+|레시피추천시스템|<p>Node Js이용 사물인터넷과 레시피 추천 시스템을 결합한 졸업작품 및 논문 </p><p>참여자 : 3명</p>|
+
+<br>
+
+**자격증 / Certificate**
+
+- NCA(2023. 11 취득)
+- SQLD(2023. 11 취득)
+- 빅데이터전문가 1급 (2022. 03 취득)
+- 제한무선통신사 (2022.01 취득)
+
+<br>
+
+**교육 / Education**
+- 2023.02 ~ 2023.05 Python AI 인공지능 프로젝트/ KOREAIT 아카데미 강남
+- 2022.09 ~ 2023.02  웹서버 기반 AI응용 개발자 구축과정 국비 / KOREAIT 아카데미 강남
+
+|학습언어|Java, JSP, JPA, MySQL, Python, HTML, CSS, Spring, Spring Boot, NodeJs, Ajax, JQuery, Vue, Thymleaf 등|
+| :-: | :- |
+|**프로젝트**||
+|왓챠피디아 클론코딩|<p>Spring Boot, Vue JS , Thymleaf 등을 활용한 웹사이트 프로젝트</p><p>참여자 : 7명</p>|
+|범죄데이터 분석 |<p>Python 데이터 분석을 활용한 범죄 상관성 데이터분석 프로젝트</p><p>참여자 : 2명</p>|
+
+- 2022.07 ~ 2022.09 JAVA 기초 1, 2 / KOREAIT 아카데미 강남
+
+
+<br>
+ 
 <div align='center'>기술 블로그
   <a href='https://hunseop2772.tistory.com/'>
     <img src="https://img.shields.io/badge/-TISTORY-orange"/>
