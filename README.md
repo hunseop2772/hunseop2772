@@ -24,7 +24,7 @@
 |구분|Skill|
 | :-: | :-: |
 |언어|Java, JavaScript, Python|
-|프레임워크/기술|Spring Framework, Spring Boot, Spring, RESTFul API, Node Js, Express Js, Vue Js, JSP, OpenCV, Django|
+|프레임워크/기술|Spring Framework, Spring Boot, Spring, RESTFul API, Node Js, Express Js, Vue Js, JSP, OpenCV, Django, React, Next.js, Kotlin|
 |데이터베이스|, MySQL, Oracle, PostgreSQL, Redis|
 |개발도구|Eclips, IntelliJ IDEA, Visual Studio Code, PyCharm|
 |형상 관리|Git, GitHub|
