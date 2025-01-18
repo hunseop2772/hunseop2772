@@ -5,10 +5,13 @@
 
 
 
-(직무)Backend Developer
-
+(직무)Backend Developer  		
 <br>
-
+<br>
+<br>
+[개발 블로그](https://hunseop2772.tistory.com/)
+<br>
+<br>
 **소개 / About Me**
 
 ###### - 세종텔레콤 IDC 센터 보이스키술팀 음성/메세지 부가 서비스 개발자 
