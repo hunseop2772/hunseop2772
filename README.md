@@ -23,8 +23,8 @@
 
 |구분|Skill|
 | :-: | :-: |
-|언어|Java, JavaScript, Python|
-|프레임워크/기술|Spring Framework, Spring Boot, Spring, RESTFul API, Node Js, Express Js, Vue Js, JSP, OpenCV, Django, React, Next.js, Kotlin|
+|언어|Java, JavaScript, Python, Kotlin|
+|프레임워크/기술|Spring Framework, Spring Boot, Spring, FastAPI RESTFul API, Node Js, Express Js, Next.js, React, TypeScript, Vue Js, JSP, OpenCV, Django, ELK|
 |데이터베이스|, MySQL, Oracle, PostgreSQL, Redis|
 |개발도구|Eclips, IntelliJ IDEA, Visual Studio Code, PyCharm|
 |형상 관리|Git, GitHub|
@@ -45,9 +45,28 @@
 
 **주요 프로젝트/ Projects** 
 
+
 <br>
 
-**1. 2024.01 ~ 2024.03 / (관리자 웹 통합개발 - 마이그레이션)**
+
+
+**2024.02 ~ 2024.12 / (대규모 메시지 처리 시스템 설계 및 운영 경험)**
+
+<br>
+
+
+|<p>사용언어</p><p>및 개발환경</p>|<p>- 데이터베이스 : MySQL, Redis Cluster, Oracle</p><p>- 모니터링 : Prometheus, Grafana, ELK Stack</p><p>- Message Queue : Apache Kafka</p><p>- Infrastructure : L4/L7 Load Balancer, CDN</p><p>- DevOps : Docker, Kubernetes</p>|
+| :-: | :- |
+|<p>인력구성</p><p>및 기여도</p>|<p>전체 인력: 보이스기술팀 (팀 규모)</p><p>역할: 시스템 설계 및 운영 담당</p><p>기여도: 40% (시스템 아키텍처 설계, 성능 최적화, 운영 관리 주도)</p>|
+|<p>주요업무 및</p><p>배경</p>|<p># 대규모 메시지 처리 시스템 구축</p><p>- 고객/사업자용/선거용/재판매용 서버 각 9대와 백업서버 포함 총 72대 인프라 구축</p><p>- Redis Cluster와 Kafka 기반의 고성능 메시지 처리 시스템 설계</p><p></p><p><br># 시스템 모니터링 및 장애 대응 체계 구축</p><p>- Prometheus와 Grafana 기반의 실시간 모니터링 시스템 구축</p><p>- ELK Stack을 활용한 로그 분석 플랫폼 도입, 자동 Failover 시스템 구현</p><p></p><p><br># 선거용 이미지 서버 개발 및 최적화</p><p>- 이미지 서버 분리 및 CDN 도입, 대량 메시지 발송 시 시스템 부하 분산 처리</p><p></p><p><br># 데이터베이스 최적화</p><p>- Redis 캐시 레이어 도, DB 샤딩 및 인덱싱 최적화</p><p>- 읽기/쓰기 분리 아키텍처 구현</p>|
+|성과/결과|<p><br># 시스템 성능 개선</p><p>- Redis 캐시 도입으로 DB 부하 감소</p><p>- Kafka 도입으로 메시지 처리량 향상</p><p>- 장애 대응 시간 평균 30초 이내 달성</p><p></p><p><br># 운영 효율성 향상</p><p>- 실시간 모니터링으로 장애 예방 체계 구축</p><p>- 자동화된 장애 대응으로 운영 리소스 50% 절감</p><p>- CDN 도입으로 이미지 전송 속도 향상</p><p></p><p><br># 비용 절감</p><p>- 시스템 최적화로 운영 비용 절감</p><p>- 리소스 사용 효율화로 인프라 비용 감소</p><p></p><p># 안정성 확보</p><p>- 시스템 가용성 달성</p><p>- 대규모 트래픽 처리 능력 검증, 무중단 운영 체계 구축</p>|
+
+
+<br>
+
+<br>
+
+**2024.02 ~ 2024.08 / (관리자 웹 통합개발 - 마이그레이션)**
 
 <br>
 
@@ -61,7 +80,7 @@
 
 <br>
 
-**2. 2023.09 ~ 2023.12 / ((비공개)사용자 웹 통합개발 - 마이그레이션)**
+**2023.09 ~ 2023.12 / ((비공개)사용자 웹 통합개발 - 마이그레이션)**
 
 <br>
 
@@ -73,7 +92,7 @@
 
 <br>
 
-**3. 2023.07 ~ 2023.09 / ((비공개)선거 대비 자체 이미지 서버 개발)**
+**2023.07 ~ 2023.09 / ((비공개)선거 대비 자체 이미지 서버 개발)**
 
 <br>
 
@@ -85,7 +104,7 @@
 
 <br>
 
-**4. 2023.04 ~ / (기타 유지보수 및 장애처리)**
+**2023.04 ~ / (기타 유지보수 및 장애처리)**
 
 <br>
 
